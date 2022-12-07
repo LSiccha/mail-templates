@@ -1,0 +1,1 @@
+./node_modules/.bin/mjml --watch src/index.mjml -o src/index.html
